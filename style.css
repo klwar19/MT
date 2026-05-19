@@ -1,4 +1,26 @@
-body { margin: 0; background: #000; font-family: 'Times New Roman', serif; overflow: hidden; }
+:root { --main-red: #600; --bg-dark: #0a0a0a; }
+body { margin: 0; background: var(--bg-dark); color: white; font-family: 'Segoe UI', serif; }
+.hidden { display: none !important; }
+
+/* Menu Style */
+#menu-screen { text-align: center; padding: 50px; }
+.scenario-item { margin: 20px auto; width: 300px; background: #1a1a1a; padding: 15px; border: 1px solid var(--main-red); }
+button { background: var(--main-red); color: white; border: none; padding: 10px; margin: 5px; cursor: pointer; width: 100%; transition: 0.3s; }
+button:hover { background: #900; }
+
+/* Game Style */
+#game-screen { position: relative; width: 100vw; height: 100vh; overflow: hidden; }
+#background { position: absolute; width: 100%; height: 100%; background-size: cover; z-index: -2; transition: 1s; }
+#character { position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); height: 85vh; z-index: -1; }
+#dialogue-box { 
+    position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%);
+    width: 90%; max-width: 900px; height: 160px;
+    background: rgba(0,0,0,0.85); border: 2px solid var(--main-red);
+    padding: 25px; cursor: pointer; box-sizing: border-box;
+}
+#name-tag { position: absolute; top: -15px; left: 20px; background: var(--main-red); padding: 5px 15px; font-weight: bold; }
+#text-content { font-size: 1.1rem; line-height: 1.5; color: #ddd; }
+#back-to-menu { position: absolute; top: 10px; left: 10px; width: auto; opacity: 0.5; }body { margin: 0; background: #000; font-family: 'Times New Roman', serif; overflow: hidden; }
 #game-container { position: relative; width: 100vw; height: 100vh; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; }
 #background { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-size: cover; background-position: center; z-index: -2; transition: 1s ease-in-out; }
 #character-container { position: absolute; bottom: 20%; width: 100%; display: flex; justify-content: center; z-index: -1; }
