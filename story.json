@@ -1,86 +1,81 @@
-[
-  {
-    "name": "Minh",
-    "bg": "assets/hanoi_night.jpg",
-    "char": "",
-    "text": "Đêm Hà Nội, tiếng mưa rả rích ngoài hiên căn nhà cũ phố Nguyễn Trãi. Lan đã ngủ say bên cạnh, hơi thở đều đều, nhưng lòng tôi thì như lửa đốt."
-  },
-  {
-    "name": "Minh",
-    "bg": "assets/corridor.jpg",
-    "char": "",
-    "text": "Mùi hương của mẹ... cái mùi 'đàn bà' chín muồi, mằn mặn mà ngọt lịm cứ ám ảnh tôi từ bữa cơm tối. Tôi biết hôm nay là ngày 'nhạy cảm' của mẹ."
-  },
-  {
-    "name": "Minh",
-    "bg": "assets/mom_room_door.jpg",
-    "char": "",
-    "text": "Tôi rón rén bước qua hành lang. Tiếng sàn gỗ kêu răng rắc như tố cáo kẻ tội đồ. Cánh cửa phòng mẹ khép hờ, một làn ánh sáng vàng mờ ảo hắt ra."
-  },
-  {
-    "name": "Minh",
-    "bg": "assets/mom_bed.jpg",
-    "char": "assets/mom_sleeping.png",
-    "text": "Mẹ Thủy nằm đó, chiếc váy ngủ lụa mỏng manh không giấu nổi những đường cong đầy đặn của tuổi 42. Vòng eo hơi có chút ngấn mỡ nhưng lại mềm mại vô cùng, bộ ngực phập phồng theo nhịp thở."
-  },
-  {
-    "name": "Mẹ Thủy",
-    "bg": "assets/mom_bed.jpg",
-    "char": "assets/mom_awake_scared.png",
-    "text": "(Giật mình mở mắt, giọng thều thào) Minh... con... sao con lại vào đây? Giờ này... Lan nó..."
-  },
-  {
-    "name": "Minh",
-    "bg": "assets/mom_bed.jpg",
-    "char": "assets/mom_awake_scared.png",
-    "text": "Tôi không nói gì, lao đến ôm chầm lấy mẹ. Mùi hương đàn ông của tôi hòa quyện với mùi cơ thể đang kỳ rụng trứng của mẹ tạo thành một chất kích thích cực độ. 'Mẹ, con thèm mẹ quá...'"
-  },
-  {
-    "name": "Mẹ Thủy",
-    "bg": "assets/mom_bed.jpg",
-    "char": "assets/mom_crying.png",
-    "text": "(Nước mắt chảy dài, tay đẩy yếu ớt) Đừng... nghịch tử... mẹ lạy con... hôm nay mẹ đang... dễ dính lắm... tha cho mẹ... ah..."
-  },
-  {
-    "name": "Minh",
-    "bg": "assets/mom_bed.jpg",
-    "char": "assets/mom_crying.png",
-    "text": "Tôi thô bạo vùi mặt vào hõm cổ mẹ, hít hà làn da trắng ngần đã bắt đầu có chút nếp nhăn thời gian. Bàn tay tôi luồn xuống dưới váy, chạm vào vùng cấm địa đã ướt đẫm nước nhầy."
-  },
-  {
-    "name": "Minh",
-    "bg": "assets/mom_bed.jpg",
-    "char": "assets/mom_lewd.png",
-    "text": "Mẹ rên lên một tiếng run rẩy. Cái miệng nói lời từ chối nhưng cái lồn mọng nước lại đang co bóp điên cuồng khi ngón tay tôi thâm nhập. 'Mẹ dâm quá... mẹ còn dâm hơn cả vợ con...'"
-  },
-  {
-    "name": "Mẹ Thủy",
-    "bg": "assets/mom_bed.jpg",
-    "char": "assets/mom_lewd.png",
-    "text": "Ư... hự... không được so sánh như thế... Lan nó biết... mẹ chết mất... A! Đau... con làm đau mẹ... chầm chậm thôi... nghịch tử... ôi con ơi..."
-  },
-  {
-    "name": "SFX",
-    "bg": "assets/action.jpg",
-    "char": "",
-    "text": "*Bạch... bạch... bạch...* Tiếng thịt va chạm chát chúa trong bóng tối. Minh đâm lút cán vào tử cung mẹ, mặc cho bà khóc lóc cầu xin."
-  },
-  {
-    "name": "Minh",
-    "bg": "assets/action.jpg",
-    "char": "",
-    "text": "Cảm giác lồn mẹ mút chặt lấy dương vật, ấm nóng và sâu thẳm hơn bất cứ thứ gì trên đời. Tôi cảm nhận được dòng nước dâm trào ra, hòa cùng mồ hôi của hai mẹ con."
-  },
-  {
-    "name": "Mẹ Thủy",
-    "bg": "assets/mom_climax.png",
-    "char": "",
-    "text": "(Mắt trợn trừng, người co giật) Ra... mẹ ra mất... Minh ơi... mẹ xin lỗi con dâu... mẹ sướng quá... hự... bắn vào trong rồi... hết rồi... tan nát hết rồi..."
-  },
-  {
-    "name": "Minh",
-    "bg": "assets/aftermath.jpg",
-    "char": "",
-    "text": "Tôi nằm gục trên tấm thân đẫy đà của mẹ, tận hưởng sự run rẩy sau cơn cực khoái. Mẹ vẫn khóc, nhưng đôi bàn tay vẫn ôm chặt lấy lưng tôi, không nỡ buông."
-  }
-]
+{
+  "scenarios": [
+    {
+      "id": "scenario_1",
+      "title": "Hồi Ức Tội Lỗi",
+      "chapters": [
+        {
+          "id": "s1_c1",
+          "title": "Chương 1: Đêm Đầu Muộn Màng",
+          "scenes": [
+            { "name": "Minh", "text": "Hà Nội về đêm, phố Nguyễn Trãi vắng lặng...", "bg": "hanoi_night.jpg" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scenario_2",
+      "title": "Bản Năng Nguyên Thủy",
+      "chapters": [
+        {
+          "id": "s2_c1",
+          "title": "Chương 1: Ngày Rụng Trứng",
+          "scenes": [
+            {
+              "name": "Minh",
+              "bg": "mom_room_night.jpg",
+              "text": "Tôi nằm bên cạnh Lan, nhưng hơi thở của vợ chỉ khiến tôi thêm ngột ngạt. Đầu óc tôi chỉ toàn hình ảnh mẹ Thủy lúc chiều... chiếc áo mỏng dính bết mồ hôi khi mẹ dọn dẹp ban công."
+            },
+            {
+              "name": "Minh",
+              "bg": "corridor.jpg",
+              "text": "Tôi lén ngồi dậy, nhìn Lan ngủ say. Cảm giác tội lỗi như một liều thuốc kích thích. Tôi tiến về phòng mẹ, mùi hương 'đàn bà' chín muồi hắt ra từ khe cửa. Hôm nay là ngày mẹ rụng trứng, mùi cơ thể mẹ nồng nàn, bản năng và đầy nhục dục."
+            },
+            {
+              "name": "Mẹ Thủy",
+              "bg": "mom_bed.jpg",
+              "char": "mom_startled.png",
+              "text": "(Giọng thảng thốt) Minh... con... sao lại vào đây? Lan nó vừa ngủ mà... Đừng, con ơi... đừng làm mẹ khổ thêm nữa."
+            },
+            {
+              "name": "Minh",
+              "bg": "mom_bed.jpg",
+              "text": "Tôi không đáp, bàn tay luồn vào trong áo ngủ của mẹ, chạm vào làn da bụng hơi ngấn mỡ nhưng cực kỳ mềm mại. Mẹ Thủy rùng mình, đôi mắt đẹp hơi nhăn lại vì đau khổ nhưng hơi thở đã bắt đầu dồn dập."
+            },
+            {
+              "name": "Mẹ Thủy",
+              "bg": "mom_bed.jpg",
+              "char": "mom_crying_lewd.png",
+              "text": "Ưm... con... đừng... hôm nay mẹ... mẹ đang đến ngày... dễ có em bé lắm... thả mẹ ra... ah... đừng bóp mạnh thế... nghịch tử..."
+            },
+            {
+              "name": "Minh",
+              "bg": "mom_bed_action.jpg",
+              "text": "Tôi đè nghiến mẹ xuống nệm. Mùi hương của người đàn bà đang ở đỉnh cao khao khát sinh học xộc vào mũi. Tôi hít hà hõm cổ mẹ, nơi mồ hôi rịn ra thơm nồng. So với sự khô khan của Lan, mẹ là một đại dương đầy nước nhầy và sự mời gọi."
+            },
+            {
+              "name": "SFX",
+              "bg": "mom_bed_action.jpg",
+              "text": "*Chẹp... chẹp... sột soạt...* Tiếng vải lụa bị xé toạc. Tôi thâm nhập vào mẹ, cái lồn mọng nước mút chặt lấy cặc tôi như một cái miệng đói khát."
+            },
+            {
+              "name": "Mẹ Thủy",
+              "bg": "mom_bed_action.jpg",
+              "text": "A... hự... đau... Minh... con đụ chết mẹ rồi... Lan ơi mẹ xin lỗi... mẹ sướng quá... con ơi đâm mạnh vào... chết mất... trời ơi nghịch tử của mẹ..."
+            },
+            {
+              "name": "Minh",
+              "bg": "mom_bed_climax.jpg",
+              "text": "Tôi nhìn khuôn mặt mẹ đỏ bừng, đẫm nước mắt và dục vọng. Tôi quên hết luân thường, giờ đây tôi là chồng của mẹ. Tôi bắn tung tóe dòng tinh trùng đặc quánh vào sâu trong tử cung đang mở rộng của mẹ."
+            },
+            {
+              "name": "Mẹ Thủy",
+              "bg": "mom_bed_climax.jpg",
+              "text": "(Thì thầm trong cơn mê dại) Mẹ... mẹ xin lỗi Lan... nhưng con trai mẹ... nó làm mẹ sướng quá... ư... hự..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
